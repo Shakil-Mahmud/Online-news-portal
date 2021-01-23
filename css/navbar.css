@@ -1,0 +1,13 @@
+nav{
+	background-color: #ddd;
+	padding: 5px 0px;
+	margin-bottom: 5px;
+}
+
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline;
+	padding: 0px 10px;
+}

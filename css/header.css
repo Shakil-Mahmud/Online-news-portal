@@ -1,0 +1,26 @@
+header{
+	padding: 2px;
+	margin: 0px;
+	background-color: #eee;
+}
+
+header ul{
+	overflow: hidden;
+	float: right;
+	list-style: none;
+}
+header ul li{
+	display: inline;
+	padding: 0px 5px;
+}
+
+.rows{
+	max-width: 100%;
+}
+
+.col-30{
+	max-width: 30%;
+}
+.col-70{
+	max-width: 70%;
+}

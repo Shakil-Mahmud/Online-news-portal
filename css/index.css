@@ -1,0 +1,11 @@
+.frontCard{
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	margin-bottom: 5px;    
+}
+
+.sideCard{
+    border-right-width: 1px;
+    border-right-color: black; 
+}
